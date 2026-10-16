@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.12h | 3 |
+| Week 2 | Tier 1 | 11.12h | 3 |
 
 ## Contents
 
 1. [2026-10-13 – This was Day 1 of working on WASO. It's my first time using OnShape so it took a while to get a hang of the controls but once I did I was able to build the base housing of the bird. I spent a long tim](#2026-10-13-this-was-day-1-of-working-on-waso-its-my-first-ti)
 2. [2026-10-16 – Continued to work on the fuselage, added a loft to round out the shape a bit more and I think im happy with it. Only isssue is that i had some trouble making the loft fit to the curve of the spline so](#2026-10-16-continued-to-work-on-the-fuselage-added-a-loft-to)
-3. [2026-10-16 – Work session](#2026-10-16-work-session)
+3. [2026-10-16 – Work session: Built hole and hollowed out fuselage](#2026-10-16-work-session-built-hole-and-hollowed-out-fuselage)
 
 ## Design
 
@@ -38,8 +38,10 @@ Continued to work on the fuselage, added a loft to round out the shape a bit mor
 
 [Timelapse](https://lookout.hackclub.com/api/media/88ed2d0e-c771-4b33-a789-a5e6e5ed9465/video.mp4)
 
-### 2026-10-16 – Work session
+### 2026-10-16 – Work session: Built hole and hollowed out fuselage
 
-**1.17h**
+**2.17h**
+
+Work session: Built hole and hollowed out fuselage
 
 [Timelapse](https://lookout.hackclub.com/api/media/98a27f34-de17-445c-aabb-0db9a7a25ece/video.mp4)
