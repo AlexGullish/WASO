@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 13.05h | 4 |
+| Week 2 | Tier 1 | 14.05h | 4 |
 
 ## Contents
 
@@ -49,6 +49,8 @@ Work session: Built hole and hollowed out fuselage
 
 ### 2026-10-18 – Work session
 
-**1.93h**
+**2.93h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/eee5670b-d5d8-4ec5-8e8c-b427f3a28e1a/video.mp4)
